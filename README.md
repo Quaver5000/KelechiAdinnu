@@ -1,7 +1,7 @@
 # KelechiAdinnu
 # Hi there, I'm Kelechi Adinnu! 👋
 
-![Banner Image](https://github.com/Quaver5000/KelechiAdinnu/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png?raw=true)
+![Banner Image](https://github.com/Quaver5000/KelechiAdinnu/blob/main/Banner%20image.png?raw=true)
 
 ## About Me 🚀
 
